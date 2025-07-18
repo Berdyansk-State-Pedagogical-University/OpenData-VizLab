@@ -31,7 +31,7 @@ After review, your work will become part of the open collection of examples for 
 
 ## 💡 Not sure where to start?
 
-We have prepared several demo examples and short guides.  
+We have prepared several demo examples and [short guides](https://github.com/Berdyansk-State-Pedagogical-University/OpenData-VizLab/blob/main/CONTRIBUTING.md).  
 
 Got questions or unsure how to begin? – Write to us and we’ll help!  
 📧 naukabdpu@gmail.com  
@@ -68,13 +68,9 @@ Got questions or unsure how to begin? – Write to us and we’ll help!
 You don’t have to use official portals – you can create your own small dataset and visualize it. For example:  
 
 📦 How many plastic bottles do you throw away weekly? Build a chart and see what it looks like over a year.
-
 🥗 How many vegetables do you eat during the week? Make a pie chart by type of product.
-
 🚶‍♂️ How many steps or miles do you walk daily? Calculate the average or make a weekly diagram.
-
 🧃 What do you drink daily – water, juice, tea? Count and compare with your friends.  
-
 📚 Which books did you read this year? Create a chart by genre or reading time.  
 
 ## 📚 Inspiration Sources
