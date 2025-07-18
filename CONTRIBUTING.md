@@ -18,7 +18,7 @@ You can submit your work in two ways:
 - **Fork** this repository.  
 - Place your files in the `contributions/your_name/` folder. Create a new subfolder with your name if it doesn’t exist yet.  
 - Include:  
-  - Your code file (`.ipynb`, `.R`, `.xlsx`, or others).  
+  - Your code file (`.ipynb`, `.R`, or others).  
   - A ready-made visualization (`.png`, `.jpg`, `.svg`, `.pdf`) if applicable.  
   - A short description of your work in a `README.md` file (see template below).  
   - A link to the dataset you used.  
