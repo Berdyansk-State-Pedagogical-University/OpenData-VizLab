@@ -38,7 +38,7 @@ We will add your work to the repository on your behalf.
 - Create a folder named:  
   `contributions/your_name/`  
 - Use clear and descriptive file names, e.g.:  
-  - `air_quality_kyiv.ipynb`  
+  - `air_quality_berdiansk.ipynb`  
   - `library_visits_analysis.R`  
   - `waste_statistics.xlsx`  
 
