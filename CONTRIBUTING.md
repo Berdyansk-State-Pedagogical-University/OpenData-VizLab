@@ -16,7 +16,7 @@ You can submit your work in two ways:
 
 ### 1. **Directly via GitHub**
 - **Fork** this repository.  
-- Add your files to the folder `contributions/your_name/` (create a new folder if needed).  
+- Place your files in the `contributions/your_name/` folder. Create a new subfolder with your name if it doesn’t exist yet.  
 - Include:  
   - Your code file (`.ipynb`, `.R`, `.xlsx`, or others).  
   - A ready-made visualization (`.png`, `.jpg`, `.svg`, `.pdf`) if applicable.  
