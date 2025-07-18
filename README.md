@@ -23,8 +23,8 @@ You don’t need to be a programmer or scientist – we welcome everyone who wan
    - Add a short description of what your work shows and why it might be useful to others.  
 
 3. **Submit your example**  
-   - Upload your file to this repository (see instructions in `CONTRIBUTING.md`),  
-   - or send your work to 📧 the project coordinators by [email](mailto:naukabdpu@gmail.com). In your email, be sure to include: your name(s) as author(s); code and/or visualization (as an attachment or link); the link to the dataset you used; a brief description of your work (what it shows and why it matters).  
+   - Upload your file to this repository (see instructions in [`CONTRIBUTING.md`](CONTRIBUTING.md),  
+   - or send your work to the project coordinators by [email](mailto:naukabdpu@gmail.com) 📧. In your email, be sure to include: your name(s) as author(s); code and/or visualization (as an attachment or link); the link to the dataset you used; a brief description of your work (what it shows and why it matters).  
 
 4. **Become part of the open library**  
 After review, your work will become part of the open collection of examples for education.
