@@ -12,7 +12,7 @@ You don’t need to be a professional programmer to participate. We accept contr
 
 ## 📥 How to submit your work
 
-You can submit your work in two ways:  
+You can submit your work in three ways:  
 
 ### 1. **Directly via GitHub**
 - **Fork** this repository.  
@@ -24,7 +24,12 @@ You can submit your work in two ways:
   - A link to the dataset you used.  
 - Commit your changes and open a **Pull Request (PR)**.  
 
-### 2. **By email**
+### 2. **Via Google Form**
+Fill out the form and attach your files:
+
+👉 [Submit your work via Google Form](https://forms.gle/t8oXFL8KVDFkXUAX8)
+
+### 3. **By email**
 If you are not comfortable with GitHub, email us at [naukabdpu@gmail.com](mailto:naukabdpu@gmail.com) with:  
 - Your name(s) as author(s).  
 - Code and/or visualization (as an attachment or link).  
