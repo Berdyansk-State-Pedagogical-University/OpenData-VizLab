@@ -25,9 +25,7 @@ You can submit your work in three ways:
 - Commit your changes and open a **Pull Request (PR)**.  
 
 ### 2. **Via Google Form**
-Fill out the form and attach your files:
-
-👉 [Submit your work via Google Form](https://forms.gle/t8oXFL8KVDFkXUAX8)
+Fill out the form and attach your files: 👉 [Submit your work via Google Form](https://forms.gle/t8oXFL8KVDFkXUAX8)
 
 ### 3. **By email**
 If you are not comfortable with GitHub, email us at [naukabdpu@gmail.com](mailto:naukabdpu@gmail.com) with:  
