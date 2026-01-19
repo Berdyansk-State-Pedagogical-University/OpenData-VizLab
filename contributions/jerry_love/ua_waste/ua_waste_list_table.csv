@@ -1,0 +1,21 @@
+bucket,chapter,chapter_desc,num_of_subchapters,num_of_wastecodes
+Primary Production and Natural Resources,1,Mining & Minerals,4,24
+Primary Production and Natural Resources,2,Agriculture & Food,7,38
+Industrial and Manufacturing Processes,3,Wood & Paper,3,19
+Industrial and Manufacturing Processes,4,Leather & Textiles,2,21
+Energy and Chemical Byproducts,5,Petroleum & Coal,3,24
+Energy and Chemical Byproducts,6,Inorganic Chemicals,12,48
+Energy and Chemical Byproducts,7,Organic Chemicals,7,78
+Industrial and Manufacturing Processes,8,Coatings & Inks,5,38
+Energy and Chemical Byproducts,9,Photographic,1,13
+Energy and Chemical Byproducts,10,Thermal Processes,14,173
+Industrial and Manufacturing Processes,11,Metal Surface Treatment,4,27
+Industrial and Manufacturing Processes,12,Metal Shaping & Plastics,2,23
+Energy and Chemical Byproducts,13,Oils & Fuels,7,34
+Energy and Chemical Byproducts,14,Solvents & Refrigerants,1,5
+Industrial and Manufacturing Processes,15,Packaging & Absorbents,2,12
+Other,16,Unspecified Wastes,12,125
+Construction and Demolition,17,Construction & Demolition,8,38
+Healthcare and Biological,18,Healthcare & Biological,2,16
+Waste Management and Utilities,19,Waste Management & Utilities,13,92
+Municipal Waste,20,Household & Municipal,3,40

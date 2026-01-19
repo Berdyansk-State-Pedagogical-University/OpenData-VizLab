@@ -1,0 +1,9 @@
+Act as a linguistic analyst. I have uploaded word_list.txt.
+
+*Analyze Frequency: Compare the words in this list against the high-frequency vocabulary typically found in natural, conversational human-AI interactions.
+
+*Synonym Check: If a word in the list isn't an exact high-frequency match, check if it is a direct synonym of a word that is frequently used in conversation.
+
+*Filter: Identify only the words from word_list.txt that meet either criterion (exact match or synonym of a common conversational word).
+
+*Output: Generate a new text file titled "matched_words" containing only these matching words.
