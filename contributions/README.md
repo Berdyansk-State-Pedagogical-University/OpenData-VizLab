@@ -1,11 +1,13 @@
-# 📂 Contributions
+# Visualization: Inclusivity and Quality of Passenger Transport in the Berdiansk Territorial Community (2019-2021)
 
-This folder contains participant submissions.  
+Author: Anton Serdiuchenko 
+Dataset: https://data.gov.ua/dataset/90417380-c6b1-46e1-b768-ed545d74f78b
 
-📥 **How to add your work:**  
-- Create a subfolder named `your_name/` for your contribution.  
-- To create a subfolder, use the GitHub web interface:  
-  In the `contributions/` folder, click **“Add file → Create new file”** and type: `your_name/README.md` 
-- Then you can add your other files (code, visualization etc.) into your subfolder.  
+## Description
+Analysis of open data on accessibility for people with limited mobility and the technical condition of vehicles on city routes in the Berdiansk Territorial Community (2019-2021)
+## Tools used
+- Claude by Anthropic
+- Data source: Open Data Portal of Ukraine
 
-If you’re not comfortable using GitHub, you can also send your work by email: [naukabdpu@gmail.com](mailto:naukabdpu@gmail.com) 
+## License
+- Visualizations: CC BY 4.0
